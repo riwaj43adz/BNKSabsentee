@@ -14,10 +14,10 @@
 <?php include('server.php') ?>
 <?php
 //initializing connection
-$host="sql105.epizy.com";
-$dbuser="epiz_29213143";
-$dbpassword="Hh8MGJialQ";
-$dbname="epiz_29213143_abs";
+$host=" ";
+$dbuser=" ";
+$dbpassword=" ";
+$dbname=" ";
 
 
 $conn = mysqli_connect($host, $dbuser, $dbpassword, $dbname) or die("Connection Error: " . mysqli_error($conn));
