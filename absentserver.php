@@ -11,10 +11,10 @@ $house="";
 $errors = array(); 
 
 //initializing connection
-$host="sql105.epizy.com";
-$dbuser="epiz_29213143";
-$dbpassword="Hh8MGJialQ";
-$dbname="epiz_29213143_abs";
+$host=" ";
+$dbuser=" ";
+$dbpassword=" ";
+$dbname=" ";
 
 //connecting to database
 $db= mysqli_connect($host, $dbuser, $dbpassword, $dbname) or die("couldnot connect to database");?>
