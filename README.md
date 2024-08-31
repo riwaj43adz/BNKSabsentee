@@ -35,7 +35,6 @@ This system was developed and utilized during the pandemic at **Budhanilkantha S
 ![Screenshot](ss/1.png)  
 ![Screenshot](ss/2.png)  
 ![Screenshot](ss/3.png)  
-*(Replace the above link with actual screenshots of the website.)*
 
 ## Getting Started
 
