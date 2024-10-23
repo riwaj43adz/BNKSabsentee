@@ -49,7 +49,7 @@ Ensure you have the following:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sphinx78/Class-absent-record.git
+   git clone https://github.com/riwaj43adz/BNKSabsentee.git
    ```
 2. Set up the databases as per the provided php scripts.
 3. Place the `register.php` file on the server only when new users need to be registered.
